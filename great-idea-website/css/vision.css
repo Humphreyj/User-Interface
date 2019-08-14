@@ -1,0 +1,45 @@
+
+
+.glasses {
+	width: 45%;
+	display: inline-block;
+	padding-top: 30px;
+	vertical-align: top;
+}
+
+.vision-text {
+	width: 45%;
+	display: inline-block;
+	padding: 20px;
+
+}
+
+.about-vision {
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+}
+
+.vision-text p {
+	
+	width: 100%;
+	vertical-align: top;
+
+}
+
+.vision-text h3 {
+	padding: 10px;
+}
+
+.eye-doc {
+	width: 45%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+footer p {
+	padding-top: 60px;
+	text-align: center;
+	vertical-align: top;
+	padding-bottom: 100px;
+	font-family: 'Saira Stencil One', cursive;
+}
